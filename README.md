@@ -3,6 +3,10 @@
   ![MIT](https://img.shields.io/badge/license-MIT-green)
   ## Description
   This projects main goal is to be generate README files, to further streamline the process of establishing github repositories.
+  A demonstration can be found on Youtube at the following link.
+  
+  https://www.youtube.com/watch?v=WZ6e-am7aEQ
+  
   ## Table of Contents
   1. [Installation](#installation)
   2. [Usage](#usage)
